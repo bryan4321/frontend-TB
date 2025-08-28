@@ -27,3 +27,11 @@ npm run dev
 ```sh
 npm run build
 ```
+### Autre commande si problème pour les requêtes et affichage 
+```sh
+npm i leaflet leaflet.markercluster axios
+npm i leaflet axios 
+npm i chart.js
+npm install axios
+npm install vue-router@4
+```
