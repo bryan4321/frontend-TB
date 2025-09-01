@@ -8,7 +8,7 @@
           La mobilité est un thème fondamental dans nos sociétés, notamment en lien avec l'urgence climatique. 
           Concrètement, de nouveaux besoins émergeront prochainement et il s'agit d'y apporter des solutions pragmatiques et personnalisées.
           C'est dans cette optique d'identifier et de comprendre les déplacements des collaborateurs et collaboratrices que s'inscrit ce diagnostic.
-          Il permettra également d'alimenter de futures réflexions sur les actions à entreprendre dans le but de dlployer des mobilités plus durables et asscociées à des solutions personalisées.
+          Il permettra également d'alimenter de futures réflexions sur les actions à entreprendre dans le but de d'employer des mobilités plus durables et asscociées à des solutions personalisées.
           Toutes les données collectées font l'objet d'une protection sécurisée.
           Merci d'avance pour votre contribution.
         </p>
